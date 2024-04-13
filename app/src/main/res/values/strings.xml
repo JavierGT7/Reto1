@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Retos</string>
+    <string name="guardar" />
+    <string name="password" />
+    <string name="usuario" />
+    <string name="login_app" />
+</resources>
